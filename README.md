@@ -9,7 +9,7 @@ You can click the Preview link to take a look at your changes.
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=doganaliyeniacun&label=Total%20view&color=08fd7e&style=flat" alt="doganaliyeniacun" /> </p>
 
 
-- 🌱 I’m currently learning **Flutter, .Net**
+- 🌱 I’m currently learning **Unity ,Flutter, .Net**
 
 - 💬 Ask me about ** T-SQL, MSQL, Unity, C#, Flutter, Dart, PostgreSQL,.Net **
 

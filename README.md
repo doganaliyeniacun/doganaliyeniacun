@@ -11,7 +11,7 @@ You can click the Preview link to take a look at your changes.
 
 - 🌱 I’m currently learning **Unity ,Flutter, .Net**
 
-- 💬 Ask me about ** T-SQL, MSQL, Unity, C#, Flutter, Dart, PostgreSQL,.Net **
+- 💬 Ask me about ** T-SQL, Asp.Net Core, Unity, Flutter, PostgreSQL, **
 
 - 📫 How to reach me **alidoganyeniacun@gmail.com**
 

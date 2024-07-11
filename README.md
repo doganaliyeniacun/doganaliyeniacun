@@ -9,9 +9,9 @@ You can click the Preview link to take a look at your changes.
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=doganaliyeniacun&label=Total%20view&color=08fd7e&style=flat" alt="doganaliyeniacun" /> </p>
 
 
-- 🌱 I’m currently learning ** Flutter, Asp.Net Core **
+- 🌱 I’m currently learning ** Flutter **
 
-- 💬 Ask me about ** T-SQL, Flutter, Asp.Net Core, Unity, PostgreSQL, **
+- 💬 Ask me about ** T-SQL, Flutter **
 
 - 📫 How to reach me **alidoganyeniacun@gmail.com**
 
